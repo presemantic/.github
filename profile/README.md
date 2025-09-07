@@ -1,22 +1,23 @@
 # 🌐 Presemantic
 
-**Presemantic** rozwija portale ogłoszeniowe, które dają przestrzeń do zamieszczania i przeglądania ogłoszeń reklamowych w różnych obszarach życia. Naszym celem jest łączenie ludzi i firm poprzez proste, nowoczesne i skuteczne narzędzia online.
+**Presemantic** develops innovative listing platforms that provide space for posting and browsing promotional ads across different areas of life.  
+Our mission is to connect people and businesses through simple, modern, and effective online tools.
 
 ---
 
-## 🚀 Nasze Portale
+## 🚀 Our Platforms
 
-| Portal   | Opis |
-|----------|------|
-| 🏍️ **Motoaro** | Ogłoszenia motoryzacyjne – samochody, motocykle, części i akcesoria. |
-| 🏡 **Homearo** | Ogłoszenia nieruchomościowe – sprzedaż, wynajem i inwestycje w mieszkania, domy czy działki. |
-| 🤝 **Duoaro** | Poznaj partnerów do wspólnych pasji – sport, hobby, podróże. |
-| 🔧 **Handyaro** | Ogłoszenia usługowe – znajdź fachowca do remontu, napraw czy prac domowych. |
-| 💡 **Seedaro** | Platforma dla inwestorów i projektów – miejsce spotkań osób z kapitałem i tych, którzy go potrzebują. |
+| Platform   | Description |
+|------------|-------------|
+| 🏍️ **Motoaro** | Automotive listings – cars, motorcycles, parts, and accessories. |
+| 🏡 **Homearo** | Real estate listings – sales, rentals, and investments in apartments, houses, or land. |
+| 🤝 **Duoaro** | Find partners for shared passions – sports, hobbies, or travel. |
+| 🔧 **Handyaro** | Service listings – find a handyman for renovations, repairs, or household tasks. |
+| 💡 **Seedaro** | A platform for investors and projects – connecting people seeking capital with those who want to invest. |
 
 ---
 
-## 🛠️ Technologie
+## 🛠️ Tech Stack
 
 - **Backend & Data**: Python, Go, Ruby, Bash  
 - **Frontend**: Vue, Nuxt, HTML  
@@ -24,10 +25,10 @@
 
 ---
 
-## 📌 Misja
+## 📌 Mission
 
-Tworzymy spójny ekosystem portali, które ułatwiają komunikację, rozwój i współpracę.  
-Każdy z naszych projektów to krok w stronę prostszego i bardziej połączonego świata.
+We build a unified ecosystem of platforms that simplify communication, foster growth, and enable collaboration.  
+Each of our projects is a step toward a simpler and more connected world.
 
 ---
 
