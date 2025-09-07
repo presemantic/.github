@@ -17,14 +17,6 @@ Our mission is to connect people and businesses through simple, modern, and effe
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Backend & Data**: Python, Go, Ruby, Bash  
-- **Frontend**: Vue, Nuxt, HTML  
-- **Observability & Monitoring**: New Relic, Prometheus, Elasticsearch, Logs Parsing, APM  
-
----
-
 ## 📌 Mission
 
 We build a unified ecosystem of platforms that simplify communication, foster growth, and enable collaboration.  
